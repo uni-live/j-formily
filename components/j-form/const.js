@@ -1,0 +1,6 @@
+const JFORM_KEY = Symbol()
+const JFORMITEM_KEY = Symbol()
+const JFORMSUBMITBUTTON_KEY = Symbol()
+const COMP_KEY = Symbol()
+
+export { JFORM_KEY, JFORMITEM_KEY, JFORMSUBMITBUTTON_KEY, COMP_KEY }
