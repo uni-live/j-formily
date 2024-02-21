@@ -1,6 +1,6 @@
 # j-formily json表单生成器
 
-```
+```javascript
 <template>
 	<view class="w-100">
 		<view class="content" style="width: 750rpx">
